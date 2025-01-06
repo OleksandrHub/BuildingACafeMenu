@@ -9,3 +9,14 @@ body{
     margin: 0 auto;
     background-color: burlywood;
 }
+.flavor{
+    text-align: left;
+    width:75%;
+}
+.price{
+    text-align: right;
+    width:25%;
+}
+.item p {
+    display: inline-block;
+}
